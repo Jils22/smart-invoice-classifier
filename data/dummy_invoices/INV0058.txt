@@ -1,0 +1,5 @@
+Invoice ID: INV0058
+Vendor: Delta Power
+Date: 2025-05-02
+Description: This invoice is for Supplies related charges. Total payable amount: INR 10450.
+Account No: ****9995

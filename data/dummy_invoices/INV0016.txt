@@ -1,0 +1,5 @@
+Invoice ID: INV0016
+Vendor: XYZ Corp
+Date: 2025-01-23
+Description: This invoice is for Utilities related charges. Total payable amount: INR 8792.
+Account No: ****9355

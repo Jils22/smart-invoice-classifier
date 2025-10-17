@@ -1,0 +1,5 @@
+Invoice ID: INV0025
+Vendor: Alpha Services
+Date: 2025-02-09
+Description: This invoice is for Internet related charges. Total payable amount: INR 3414.
+Account No: ****8932

@@ -1,0 +1,5 @@
+Invoice ID: INV0080
+Vendor: Delta Power
+Date: 2025-04-08
+Description: This invoice is for Internet related charges. Total payable amount: INR 4999.
+Account No: ****8761

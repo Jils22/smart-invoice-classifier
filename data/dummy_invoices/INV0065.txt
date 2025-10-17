@@ -1,0 +1,5 @@
+Invoice ID: INV0065
+Vendor: XYZ Corp
+Date: 2025-06-26
+Description: This invoice is for Maintenance related charges. Total payable amount: INR 13653.
+Account No: ****5301

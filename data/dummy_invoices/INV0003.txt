@@ -1,0 +1,5 @@
+Invoice ID: INV0003
+Vendor: ABC Pvt Ltd
+Date: 2024-11-10
+Description: This invoice is for Maintenance related charges. Total payable amount: INR 2722.
+Account No: ****7097

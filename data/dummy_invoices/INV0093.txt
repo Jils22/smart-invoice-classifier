@@ -1,0 +1,5 @@
+Invoice ID: INV0093
+Vendor: Delta Power
+Date: 2025-07-10
+Description: This invoice is for Rent related charges. Total payable amount: INR 11574.
+Account No: ****2948

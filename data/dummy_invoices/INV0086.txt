@@ -1,0 +1,5 @@
+Invoice ID: INV0086
+Vendor: QuickFix Solutions
+Date: 2025-10-13
+Description: This invoice is for Supplies related charges. Total payable amount: INR 13042.
+Account No: ****1119

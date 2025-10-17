@@ -1,0 +1,501 @@
+invoice_id,file_name,vendor,date,amount,category,text
+INV0001,INV0001.txt,Delta Power,2024-11-07,14818,Maintenance,"Invoice ID: INV0001
+Vendor: Delta Power
+Date: 2024-11-07
+Description: This invoice is for Maintenance related charges. Total payable amount: INR 14818.
+Account No: ****1731"
+INV0002,INV0002.txt,ABC Pvt Ltd,2025-09-19,8178,Supplies,"Invoice ID: INV0002
+Vendor: ABC Pvt Ltd
+Date: 2025-09-19
+Description: This invoice is for Supplies related charges. Total payable amount: INR 8178.
+Account No: ****9466"
+INV0003,INV0003.txt,ABC Pvt Ltd,2024-11-10,2722,Maintenance,"Invoice ID: INV0003
+Vendor: ABC Pvt Ltd
+Date: 2024-11-10
+Description: This invoice is for Maintenance related charges. Total payable amount: INR 2722.
+Account No: ****7097"
+INV0004,INV0004.txt,Delta Power,2025-02-04,10937,Maintenance,"Invoice ID: INV0004
+Vendor: Delta Power
+Date: 2025-02-04
+Description: This invoice is for Maintenance related charges. Total payable amount: INR 10937.
+Account No: ****3769"
+INV0005,INV0005.txt,QuickFix Solutions,2024-12-13,4247,Supplies,"Invoice ID: INV0005
+Vendor: QuickFix Solutions
+Date: 2024-12-13
+Description: This invoice is for Supplies related charges. Total payable amount: INR 4247.
+Account No: ****9952"
+INV0006,INV0006.txt,Alpha Services,2025-02-05,8152,Utilities,"Invoice ID: INV0006
+Vendor: Alpha Services
+Date: 2025-02-05
+Description: This invoice is for Utilities related charges. Total payable amount: INR 8152.
+Account No: ****4581"
+INV0007,INV0007.txt,XYZ Corp,2024-11-04,11190,Maintenance,"Invoice ID: INV0007
+Vendor: XYZ Corp
+Date: 2024-11-04
+Description: This invoice is for Maintenance related charges. Total payable amount: INR 11190.
+Account No: ****2242"
+INV0008,INV0008.txt,XYZ Corp,2025-01-14,2338,Internet,"Invoice ID: INV0008
+Vendor: XYZ Corp
+Date: 2025-01-14
+Description: This invoice is for Internet related charges. Total payable amount: INR 2338.
+Account No: ****8030"
+INV0009,INV0009.txt,ABC Pvt Ltd,2025-09-07,2898,Rent,"Invoice ID: INV0009
+Vendor: ABC Pvt Ltd
+Date: 2025-09-07
+Description: This invoice is for Rent related charges. Total payable amount: INR 2898.
+Account No: ****2078"
+INV0010,INV0010.txt,XYZ Corp,2025-10-05,8662,Maintenance,"Invoice ID: INV0010
+Vendor: XYZ Corp
+Date: 2025-10-05
+Description: This invoice is for Maintenance related charges. Total payable amount: INR 8662.
+Account No: ****2167"
+INV0011,INV0011.txt,ABC Pvt Ltd,2025-02-16,3469,Internet,"Invoice ID: INV0011
+Vendor: ABC Pvt Ltd
+Date: 2025-02-16
+Description: This invoice is for Internet related charges. Total payable amount: INR 3469.
+Account No: ****4117"
+INV0012,INV0012.txt,QuickFix Solutions,2025-05-30,11824,Utilities,"Invoice ID: INV0012
+Vendor: QuickFix Solutions
+Date: 2025-05-30
+Description: This invoice is for Utilities related charges. Total payable amount: INR 11824.
+Account No: ****6285"
+INV0013,INV0013.txt,Alpha Services,2024-11-01,13946,Maintenance,"Invoice ID: INV0013
+Vendor: Alpha Services
+Date: 2024-11-01
+Description: This invoice is for Maintenance related charges. Total payable amount: INR 13946.
+Account No: ****5980"
+INV0014,INV0014.txt,XYZ Corp,2024-11-17,13825,Rent,"Invoice ID: INV0014
+Vendor: XYZ Corp
+Date: 2024-11-17
+Description: This invoice is for Rent related charges. Total payable amount: INR 13825.
+Account No: ****5484"
+INV0015,INV0015.txt,ABC Pvt Ltd,2025-10-04,12674,Internet,"Invoice ID: INV0015
+Vendor: ABC Pvt Ltd
+Date: 2025-10-04
+Description: This invoice is for Internet related charges. Total payable amount: INR 12674.
+Account No: ****4724"
+INV0016,INV0016.txt,XYZ Corp,2025-01-23,8792,Utilities,"Invoice ID: INV0016
+Vendor: XYZ Corp
+Date: 2025-01-23
+Description: This invoice is for Utilities related charges. Total payable amount: INR 8792.
+Account No: ****9355"
+INV0017,INV0017.txt,Delta Power,2025-07-25,7358,Maintenance,"Invoice ID: INV0017
+Vendor: Delta Power
+Date: 2025-07-25
+Description: This invoice is for Maintenance related charges. Total payable amount: INR 7358.
+Account No: ****4899"
+INV0018,INV0018.txt,ABC Pvt Ltd,2025-03-18,5347,Internet,"Invoice ID: INV0018
+Vendor: ABC Pvt Ltd
+Date: 2025-03-18
+Description: This invoice is for Internet related charges. Total payable amount: INR 5347.
+Account No: ****5302"
+INV0019,INV0019.txt,XYZ Corp,2025-05-06,4109,Rent,"Invoice ID: INV0019
+Vendor: XYZ Corp
+Date: 2025-05-06
+Description: This invoice is for Rent related charges. Total payable amount: INR 4109.
+Account No: ****7146"
+INV0020,INV0020.txt,Alpha Services,2025-09-20,10887,Rent,"Invoice ID: INV0020
+Vendor: Alpha Services
+Date: 2025-09-20
+Description: This invoice is for Rent related charges. Total payable amount: INR 10887.
+Account No: ****2016"
+INV0021,INV0021.txt,QuickFix Solutions,2025-08-17,2032,Maintenance,"Invoice ID: INV0021
+Vendor: QuickFix Solutions
+Date: 2025-08-17
+Description: This invoice is for Maintenance related charges. Total payable amount: INR 2032.
+Account No: ****6228"
+INV0022,INV0022.txt,ABC Pvt Ltd,2025-06-29,11666,Internet,"Invoice ID: INV0022
+Vendor: ABC Pvt Ltd
+Date: 2025-06-29
+Description: This invoice is for Internet related charges. Total payable amount: INR 11666.
+Account No: ****2871"
+INV0023,INV0023.txt,QuickFix Solutions,2025-06-26,13160,Internet,"Invoice ID: INV0023
+Vendor: QuickFix Solutions
+Date: 2025-06-26
+Description: This invoice is for Internet related charges. Total payable amount: INR 13160.
+Account No: ****2922"
+INV0024,INV0024.txt,QuickFix Solutions,2025-08-28,12369,Supplies,"Invoice ID: INV0024
+Vendor: QuickFix Solutions
+Date: 2025-08-28
+Description: This invoice is for Supplies related charges. Total payable amount: INR 12369.
+Account No: ****4384"
+INV0025,INV0025.txt,Alpha Services,2025-02-09,3414,Internet,"Invoice ID: INV0025
+Vendor: Alpha Services
+Date: 2025-02-09
+Description: This invoice is for Internet related charges. Total payable amount: INR 3414.
+Account No: ****8932"
+INV0026,INV0026.txt,ABC Pvt Ltd,2025-05-27,5493,Internet,"Invoice ID: INV0026
+Vendor: ABC Pvt Ltd
+Date: 2025-05-27
+Description: This invoice is for Internet related charges. Total payable amount: INR 5493.
+Account No: ****8506"
+INV0027,INV0027.txt,ABC Pvt Ltd,2025-05-07,3470,Supplies,"Invoice ID: INV0027
+Vendor: ABC Pvt Ltd
+Date: 2025-05-07
+Description: This invoice is for Supplies related charges. Total payable amount: INR 3470.
+Account No: ****7581"
+INV0028,INV0028.txt,XYZ Corp,2025-09-22,6543,Rent,"Invoice ID: INV0028
+Vendor: XYZ Corp
+Date: 2025-09-22
+Description: This invoice is for Rent related charges. Total payable amount: INR 6543.
+Account No: ****7170"
+INV0029,INV0029.txt,QuickFix Solutions,2025-07-24,10694,Maintenance,"Invoice ID: INV0029
+Vendor: QuickFix Solutions
+Date: 2025-07-24
+Description: This invoice is for Maintenance related charges. Total payable amount: INR 10694.
+Account No: ****4316"
+INV0030,INV0030.txt,ABC Pvt Ltd,2024-12-05,3320,Internet,"Invoice ID: INV0030
+Vendor: ABC Pvt Ltd
+Date: 2024-12-05
+Description: This invoice is for Internet related charges. Total payable amount: INR 3320.
+Account No: ****1722"
+INV0031,INV0031.txt,Delta Power,2025-05-09,11753,Maintenance,"Invoice ID: INV0031
+Vendor: Delta Power
+Date: 2025-05-09
+Description: This invoice is for Maintenance related charges. Total payable amount: INR 11753.
+Account No: ****2271"
+INV0032,INV0032.txt,Alpha Services,2025-05-30,12453,Supplies,"Invoice ID: INV0032
+Vendor: Alpha Services
+Date: 2025-05-30
+Description: This invoice is for Supplies related charges. Total payable amount: INR 12453.
+Account No: ****2554"
+INV0033,INV0033.txt,Delta Power,2024-12-17,12259,Internet,"Invoice ID: INV0033
+Vendor: Delta Power
+Date: 2024-12-17
+Description: This invoice is for Internet related charges. Total payable amount: INR 12259.
+Account No: ****3609"
+INV0034,INV0034.txt,XYZ Corp,2025-08-05,14721,Maintenance,"Invoice ID: INV0034
+Vendor: XYZ Corp
+Date: 2025-08-05
+Description: This invoice is for Maintenance related charges. Total payable amount: INR 14721.
+Account No: ****9571"
+INV0035,INV0035.txt,XYZ Corp,2025-08-17,10138,Maintenance,"Invoice ID: INV0035
+Vendor: XYZ Corp
+Date: 2025-08-17
+Description: This invoice is for Maintenance related charges. Total payable amount: INR 10138.
+Account No: ****3904"
+INV0036,INV0036.txt,ABC Pvt Ltd,2025-09-10,14707,Supplies,"Invoice ID: INV0036
+Vendor: ABC Pvt Ltd
+Date: 2025-09-10
+Description: This invoice is for Supplies related charges. Total payable amount: INR 14707.
+Account No: ****6401"
+INV0037,INV0037.txt,Delta Power,2024-11-27,2602,Utilities,"Invoice ID: INV0037
+Vendor: Delta Power
+Date: 2024-11-27
+Description: This invoice is for Utilities related charges. Total payable amount: INR 2602.
+Account No: ****7603"
+INV0038,INV0038.txt,Delta Power,2025-05-15,5040,Rent,"Invoice ID: INV0038
+Vendor: Delta Power
+Date: 2025-05-15
+Description: This invoice is for Rent related charges. Total payable amount: INR 5040.
+Account No: ****1207"
+INV0039,INV0039.txt,ABC Pvt Ltd,2025-02-27,12684,Supplies,"Invoice ID: INV0039
+Vendor: ABC Pvt Ltd
+Date: 2025-02-27
+Description: This invoice is for Supplies related charges. Total payable amount: INR 12684.
+Account No: ****9281"
+INV0040,INV0040.txt,Delta Power,2024-11-09,4982,Internet,"Invoice ID: INV0040
+Vendor: Delta Power
+Date: 2024-11-09
+Description: This invoice is for Internet related charges. Total payable amount: INR 4982.
+Account No: ****4174"
+INV0041,INV0041.txt,ABC Pvt Ltd,2025-02-24,8150,Internet,"Invoice ID: INV0041
+Vendor: ABC Pvt Ltd
+Date: 2025-02-24
+Description: This invoice is for Internet related charges. Total payable amount: INR 8150.
+Account No: ****1576"
+INV0042,INV0042.txt,QuickFix Solutions,2025-05-09,5551,Rent,"Invoice ID: INV0042
+Vendor: QuickFix Solutions
+Date: 2025-05-09
+Description: This invoice is for Rent related charges. Total payable amount: INR 5551.
+Account No: ****2286"
+INV0043,INV0043.txt,ABC Pvt Ltd,2025-02-01,3478,Utilities,"Invoice ID: INV0043
+Vendor: ABC Pvt Ltd
+Date: 2025-02-01
+Description: This invoice is for Utilities related charges. Total payable amount: INR 3478.
+Account No: ****7774"
+INV0044,INV0044.txt,XYZ Corp,2025-05-08,9144,Rent,"Invoice ID: INV0044
+Vendor: XYZ Corp
+Date: 2025-05-08
+Description: This invoice is for Rent related charges. Total payable amount: INR 9144.
+Account No: ****4695"
+INV0045,INV0045.txt,Delta Power,2025-05-29,7132,Utilities,"Invoice ID: INV0045
+Vendor: Delta Power
+Date: 2025-05-29
+Description: This invoice is for Utilities related charges. Total payable amount: INR 7132.
+Account No: ****8684"
+INV0046,INV0046.txt,QuickFix Solutions,2025-08-24,5714,Rent,"Invoice ID: INV0046
+Vendor: QuickFix Solutions
+Date: 2025-08-24
+Description: This invoice is for Rent related charges. Total payable amount: INR 5714.
+Account No: ****8569"
+INV0047,INV0047.txt,XYZ Corp,2025-03-20,11161,Rent,"Invoice ID: INV0047
+Vendor: XYZ Corp
+Date: 2025-03-20
+Description: This invoice is for Rent related charges. Total payable amount: INR 11161.
+Account No: ****1983"
+INV0048,INV0048.txt,XYZ Corp,2024-12-25,4343,Rent,"Invoice ID: INV0048
+Vendor: XYZ Corp
+Date: 2024-12-25
+Description: This invoice is for Rent related charges. Total payable amount: INR 4343.
+Account No: ****1043"
+INV0049,INV0049.txt,Delta Power,2024-12-29,12210,Utilities,"Invoice ID: INV0049
+Vendor: Delta Power
+Date: 2024-12-29
+Description: This invoice is for Utilities related charges. Total payable amount: INR 12210.
+Account No: ****4866"
+INV0050,INV0050.txt,ABC Pvt Ltd,2025-03-14,14843,Utilities,"Invoice ID: INV0050
+Vendor: ABC Pvt Ltd
+Date: 2025-03-14
+Description: This invoice is for Utilities related charges. Total payable amount: INR 14843.
+Account No: ****5214"
+INV0051,INV0051.txt,XYZ Corp,2025-08-18,10193,Rent,"Invoice ID: INV0051
+Vendor: XYZ Corp
+Date: 2025-08-18
+Description: This invoice is for Rent related charges. Total payable amount: INR 10193.
+Account No: ****1870"
+INV0052,INV0052.txt,Delta Power,2025-09-20,8880,Utilities,"Invoice ID: INV0052
+Vendor: Delta Power
+Date: 2025-09-20
+Description: This invoice is for Utilities related charges. Total payable amount: INR 8880.
+Account No: ****5508"
+INV0053,INV0053.txt,ABC Pvt Ltd,2024-12-05,8585,Supplies,"Invoice ID: INV0053
+Vendor: ABC Pvt Ltd
+Date: 2024-12-05
+Description: This invoice is for Supplies related charges. Total payable amount: INR 8585.
+Account No: ****3085"
+INV0054,INV0054.txt,Alpha Services,2025-03-26,10572,Rent,"Invoice ID: INV0054
+Vendor: Alpha Services
+Date: 2025-03-26
+Description: This invoice is for Rent related charges. Total payable amount: INR 10572.
+Account No: ****2406"
+INV0055,INV0055.txt,Delta Power,2025-09-15,12109,Rent,"Invoice ID: INV0055
+Vendor: Delta Power
+Date: 2025-09-15
+Description: This invoice is for Rent related charges. Total payable amount: INR 12109.
+Account No: ****4270"
+INV0056,INV0056.txt,Alpha Services,2025-03-08,11141,Maintenance,"Invoice ID: INV0056
+Vendor: Alpha Services
+Date: 2025-03-08
+Description: This invoice is for Maintenance related charges. Total payable amount: INR 11141.
+Account No: ****9421"
+INV0057,INV0057.txt,ABC Pvt Ltd,2024-12-21,3959,Internet,"Invoice ID: INV0057
+Vendor: ABC Pvt Ltd
+Date: 2024-12-21
+Description: This invoice is for Internet related charges. Total payable amount: INR 3959.
+Account No: ****9589"
+INV0058,INV0058.txt,Delta Power,2025-05-02,10450,Supplies,"Invoice ID: INV0058
+Vendor: Delta Power
+Date: 2025-05-02
+Description: This invoice is for Supplies related charges. Total payable amount: INR 10450.
+Account No: ****9995"
+INV0059,INV0059.txt,ABC Pvt Ltd,2025-08-19,7167,Rent,"Invoice ID: INV0059
+Vendor: ABC Pvt Ltd
+Date: 2025-08-19
+Description: This invoice is for Rent related charges. Total payable amount: INR 7167.
+Account No: ****1200"
+INV0060,INV0060.txt,Alpha Services,2024-11-12,10176,Supplies,"Invoice ID: INV0060
+Vendor: Alpha Services
+Date: 2024-11-12
+Description: This invoice is for Supplies related charges. Total payable amount: INR 10176.
+Account No: ****8410"
+INV0061,INV0061.txt,Delta Power,2025-02-01,9000,Maintenance,"Invoice ID: INV0061
+Vendor: Delta Power
+Date: 2025-02-01
+Description: This invoice is for Maintenance related charges. Total payable amount: INR 9000.
+Account No: ****3173"
+INV0062,INV0062.txt,Delta Power,2025-01-19,10277,Internet,"Invoice ID: INV0062
+Vendor: Delta Power
+Date: 2025-01-19
+Description: This invoice is for Internet related charges. Total payable amount: INR 10277.
+Account No: ****8923"
+INV0063,INV0063.txt,Delta Power,2024-11-03,8353,Internet,"Invoice ID: INV0063
+Vendor: Delta Power
+Date: 2024-11-03
+Description: This invoice is for Internet related charges. Total payable amount: INR 8353.
+Account No: ****2911"
+INV0064,INV0064.txt,ABC Pvt Ltd,2025-07-30,7892,Maintenance,"Invoice ID: INV0064
+Vendor: ABC Pvt Ltd
+Date: 2025-07-30
+Description: This invoice is for Maintenance related charges. Total payable amount: INR 7892.
+Account No: ****7769"
+INV0065,INV0065.txt,XYZ Corp,2025-06-26,13653,Maintenance,"Invoice ID: INV0065
+Vendor: XYZ Corp
+Date: 2025-06-26
+Description: This invoice is for Maintenance related charges. Total payable amount: INR 13653.
+Account No: ****5301"
+INV0066,INV0066.txt,Alpha Services,2025-08-31,6491,Internet,"Invoice ID: INV0066
+Vendor: Alpha Services
+Date: 2025-08-31
+Description: This invoice is for Internet related charges. Total payable amount: INR 6491.
+Account No: ****8735"
+INV0067,INV0067.txt,ABC Pvt Ltd,2024-11-18,14169,Internet,"Invoice ID: INV0067
+Vendor: ABC Pvt Ltd
+Date: 2024-11-18
+Description: This invoice is for Internet related charges. Total payable amount: INR 14169.
+Account No: ****7589"
+INV0068,INV0068.txt,Alpha Services,2024-12-14,11768,Rent,"Invoice ID: INV0068
+Vendor: Alpha Services
+Date: 2024-12-14
+Description: This invoice is for Rent related charges. Total payable amount: INR 11768.
+Account No: ****4699"
+INV0069,INV0069.txt,QuickFix Solutions,2024-12-01,5867,Supplies,"Invoice ID: INV0069
+Vendor: QuickFix Solutions
+Date: 2024-12-01
+Description: This invoice is for Supplies related charges. Total payable amount: INR 5867.
+Account No: ****9019"
+INV0070,INV0070.txt,Delta Power,2025-04-18,563,Maintenance,"Invoice ID: INV0070
+Vendor: Delta Power
+Date: 2025-04-18
+Description: This invoice is for Maintenance related charges. Total payable amount: INR 563.
+Account No: ****6311"
+INV0071,INV0071.txt,Alpha Services,2025-05-16,4185,Internet,"Invoice ID: INV0071
+Vendor: Alpha Services
+Date: 2025-05-16
+Description: This invoice is for Internet related charges. Total payable amount: INR 4185.
+Account No: ****7100"
+INV0072,INV0072.txt,Alpha Services,2025-07-10,5201,Maintenance,"Invoice ID: INV0072
+Vendor: Alpha Services
+Date: 2025-07-10
+Description: This invoice is for Maintenance related charges. Total payable amount: INR 5201.
+Account No: ****7934"
+INV0073,INV0073.txt,XYZ Corp,2025-01-02,6480,Maintenance,"Invoice ID: INV0073
+Vendor: XYZ Corp
+Date: 2025-01-02
+Description: This invoice is for Maintenance related charges. Total payable amount: INR 6480.
+Account No: ****1395"
+INV0074,INV0074.txt,XYZ Corp,2025-05-18,10241,Supplies,"Invoice ID: INV0074
+Vendor: XYZ Corp
+Date: 2025-05-18
+Description: This invoice is for Supplies related charges. Total payable amount: INR 10241.
+Account No: ****5489"
+INV0075,INV0075.txt,QuickFix Solutions,2025-01-05,8523,Internet,"Invoice ID: INV0075
+Vendor: QuickFix Solutions
+Date: 2025-01-05
+Description: This invoice is for Internet related charges. Total payable amount: INR 8523.
+Account No: ****6813"
+INV0076,INV0076.txt,Alpha Services,2025-06-20,8387,Utilities,"Invoice ID: INV0076
+Vendor: Alpha Services
+Date: 2025-06-20
+Description: This invoice is for Utilities related charges. Total payable amount: INR 8387.
+Account No: ****4117"
+INV0077,INV0077.txt,QuickFix Solutions,2025-06-10,6401,Supplies,"Invoice ID: INV0077
+Vendor: QuickFix Solutions
+Date: 2025-06-10
+Description: This invoice is for Supplies related charges. Total payable amount: INR 6401.
+Account No: ****6950"
+INV0078,INV0078.txt,Delta Power,2025-02-13,14486,Supplies,"Invoice ID: INV0078
+Vendor: Delta Power
+Date: 2025-02-13
+Description: This invoice is for Supplies related charges. Total payable amount: INR 14486.
+Account No: ****5069"
+INV0079,INV0079.txt,Alpha Services,2024-11-02,9008,Supplies,"Invoice ID: INV0079
+Vendor: Alpha Services
+Date: 2024-11-02
+Description: This invoice is for Supplies related charges. Total payable amount: INR 9008.
+Account No: ****3337"
+INV0080,INV0080.txt,Delta Power,2025-04-08,4999,Internet,"Invoice ID: INV0080
+Vendor: Delta Power
+Date: 2025-04-08
+Description: This invoice is for Internet related charges. Total payable amount: INR 4999.
+Account No: ****8761"
+INV0081,INV0081.txt,Alpha Services,2025-08-10,1980,Supplies,"Invoice ID: INV0081
+Vendor: Alpha Services
+Date: 2025-08-10
+Description: This invoice is for Supplies related charges. Total payable amount: INR 1980.
+Account No: ****2158"
+INV0082,INV0082.txt,Alpha Services,2025-05-13,6456,Utilities,"Invoice ID: INV0082
+Vendor: Alpha Services
+Date: 2025-05-13
+Description: This invoice is for Utilities related charges. Total payable amount: INR 6456.
+Account No: ****4233"
+INV0083,INV0083.txt,XYZ Corp,2025-04-30,4226,Rent,"Invoice ID: INV0083
+Vendor: XYZ Corp
+Date: 2025-04-30
+Description: This invoice is for Rent related charges. Total payable amount: INR 4226.
+Account No: ****9714"
+INV0084,INV0084.txt,XYZ Corp,2024-11-19,13726,Supplies,"Invoice ID: INV0084
+Vendor: XYZ Corp
+Date: 2024-11-19
+Description: This invoice is for Supplies related charges. Total payable amount: INR 13726.
+Account No: ****5041"
+INV0085,INV0085.txt,QuickFix Solutions,2025-02-18,5916,Rent,"Invoice ID: INV0085
+Vendor: QuickFix Solutions
+Date: 2025-02-18
+Description: This invoice is for Rent related charges. Total payable amount: INR 5916.
+Account No: ****1859"
+INV0086,INV0086.txt,QuickFix Solutions,2025-10-13,13042,Supplies,"Invoice ID: INV0086
+Vendor: QuickFix Solutions
+Date: 2025-10-13
+Description: This invoice is for Supplies related charges. Total payable amount: INR 13042.
+Account No: ****1119"
+INV0087,INV0087.txt,Alpha Services,2025-10-17,2224,Maintenance,"Invoice ID: INV0087
+Vendor: Alpha Services
+Date: 2025-10-17
+Description: This invoice is for Maintenance related charges. Total payable amount: INR 2224.
+Account No: ****7793"
+INV0088,INV0088.txt,Delta Power,2025-09-02,8156,Supplies,"Invoice ID: INV0088
+Vendor: Delta Power
+Date: 2025-09-02
+Description: This invoice is for Supplies related charges. Total payable amount: INR 8156.
+Account No: ****1594"
+INV0089,INV0089.txt,Alpha Services,2025-03-15,5512,Rent,"Invoice ID: INV0089
+Vendor: Alpha Services
+Date: 2025-03-15
+Description: This invoice is for Rent related charges. Total payable amount: INR 5512.
+Account No: ****2580"
+INV0090,INV0090.txt,ABC Pvt Ltd,2025-05-01,7173,Utilities,"Invoice ID: INV0090
+Vendor: ABC Pvt Ltd
+Date: 2025-05-01
+Description: This invoice is for Utilities related charges. Total payable amount: INR 7173.
+Account No: ****8257"
+INV0091,INV0091.txt,ABC Pvt Ltd,2025-04-02,9721,Internet,"Invoice ID: INV0091
+Vendor: ABC Pvt Ltd
+Date: 2025-04-02
+Description: This invoice is for Internet related charges. Total payable amount: INR 9721.
+Account No: ****2855"
+INV0092,INV0092.txt,ABC Pvt Ltd,2025-10-02,1422,Internet,"Invoice ID: INV0092
+Vendor: ABC Pvt Ltd
+Date: 2025-10-02
+Description: This invoice is for Internet related charges. Total payable amount: INR 1422.
+Account No: ****5164"
+INV0093,INV0093.txt,Delta Power,2025-07-10,11574,Rent,"Invoice ID: INV0093
+Vendor: Delta Power
+Date: 2025-07-10
+Description: This invoice is for Rent related charges. Total payable amount: INR 11574.
+Account No: ****2948"
+INV0094,INV0094.txt,Alpha Services,2025-08-27,10059,Supplies,"Invoice ID: INV0094
+Vendor: Alpha Services
+Date: 2025-08-27
+Description: This invoice is for Supplies related charges. Total payable amount: INR 10059.
+Account No: ****8797"
+INV0095,INV0095.txt,ABC Pvt Ltd,2025-02-04,8692,Maintenance,"Invoice ID: INV0095
+Vendor: ABC Pvt Ltd
+Date: 2025-02-04
+Description: This invoice is for Maintenance related charges. Total payable amount: INR 8692.
+Account No: ****7927"
+INV0096,INV0096.txt,QuickFix Solutions,2025-08-24,2060,Maintenance,"Invoice ID: INV0096
+Vendor: QuickFix Solutions
+Date: 2025-08-24
+Description: This invoice is for Maintenance related charges. Total payable amount: INR 2060.
+Account No: ****6021"
+INV0097,INV0097.txt,XYZ Corp,2025-09-14,11772,Rent,"Invoice ID: INV0097
+Vendor: XYZ Corp
+Date: 2025-09-14
+Description: This invoice is for Rent related charges. Total payable amount: INR 11772.
+Account No: ****5973"
+INV0098,INV0098.txt,Alpha Services,2025-04-11,13359,Internet,"Invoice ID: INV0098
+Vendor: Alpha Services
+Date: 2025-04-11
+Description: This invoice is for Internet related charges. Total payable amount: INR 13359.
+Account No: ****1298"
+INV0099,INV0099.txt,Alpha Services,2025-04-18,3159,Internet,"Invoice ID: INV0099
+Vendor: Alpha Services
+Date: 2025-04-18
+Description: This invoice is for Internet related charges. Total payable amount: INR 3159.
+Account No: ****2345"
+INV0100,INV0100.txt,XYZ Corp,2025-04-02,580,Internet,"Invoice ID: INV0100
+Vendor: XYZ Corp
+Date: 2025-04-02
+Description: This invoice is for Internet related charges. Total payable amount: INR 580.
+Account No: ****4295"

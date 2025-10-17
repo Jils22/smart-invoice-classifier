@@ -1,0 +1,5 @@
+Invoice ID: INV0068
+Vendor: Alpha Services
+Date: 2024-12-14
+Description: This invoice is for Rent related charges. Total payable amount: INR 11768.
+Account No: ****4699

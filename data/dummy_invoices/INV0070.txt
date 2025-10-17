@@ -1,0 +1,5 @@
+Invoice ID: INV0070
+Vendor: Delta Power
+Date: 2025-04-18
+Description: This invoice is for Maintenance related charges. Total payable amount: INR 563.
+Account No: ****6311

@@ -1,0 +1,5 @@
+Invoice ID: INV0050
+Vendor: ABC Pvt Ltd
+Date: 2025-03-14
+Description: This invoice is for Utilities related charges. Total payable amount: INR 14843.
+Account No: ****5214

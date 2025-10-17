@@ -1,0 +1,5 @@
+Invoice ID: INV0019
+Vendor: XYZ Corp
+Date: 2025-05-06
+Description: This invoice is for Rent related charges. Total payable amount: INR 4109.
+Account No: ****7146

@@ -1,0 +1,5 @@
+Invoice ID: INV0094
+Vendor: Alpha Services
+Date: 2025-08-27
+Description: This invoice is for Supplies related charges. Total payable amount: INR 10059.
+Account No: ****8797

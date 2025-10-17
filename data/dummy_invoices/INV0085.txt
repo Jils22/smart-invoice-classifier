@@ -1,0 +1,5 @@
+Invoice ID: INV0085
+Vendor: QuickFix Solutions
+Date: 2025-02-18
+Description: This invoice is for Rent related charges. Total payable amount: INR 5916.
+Account No: ****1859

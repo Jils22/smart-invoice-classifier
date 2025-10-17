@@ -1,0 +1,5 @@
+Invoice ID: INV0072
+Vendor: Alpha Services
+Date: 2025-07-10
+Description: This invoice is for Maintenance related charges. Total payable amount: INR 5201.
+Account No: ****7934

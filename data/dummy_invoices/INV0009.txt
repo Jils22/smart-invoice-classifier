@@ -1,0 +1,5 @@
+Invoice ID: INV0009
+Vendor: ABC Pvt Ltd
+Date: 2025-09-07
+Description: This invoice is for Rent related charges. Total payable amount: INR 2898.
+Account No: ****2078

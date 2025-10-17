@@ -1,0 +1,5 @@
+Invoice ID: INV0053
+Vendor: ABC Pvt Ltd
+Date: 2024-12-05
+Description: This invoice is for Supplies related charges. Total payable amount: INR 8585.
+Account No: ****3085

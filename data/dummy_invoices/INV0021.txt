@@ -1,0 +1,5 @@
+Invoice ID: INV0021
+Vendor: QuickFix Solutions
+Date: 2025-08-17
+Description: This invoice is for Maintenance related charges. Total payable amount: INR 2032.
+Account No: ****6228

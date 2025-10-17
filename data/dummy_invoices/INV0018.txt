@@ -1,0 +1,5 @@
+Invoice ID: INV0018
+Vendor: ABC Pvt Ltd
+Date: 2025-03-18
+Description: This invoice is for Internet related charges. Total payable amount: INR 5347.
+Account No: ****5302

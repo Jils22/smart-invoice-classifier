@@ -1,0 +1,5 @@
+Invoice ID: INV0076
+Vendor: Alpha Services
+Date: 2025-06-20
+Description: This invoice is for Utilities related charges. Total payable amount: INR 8387.
+Account No: ****4117

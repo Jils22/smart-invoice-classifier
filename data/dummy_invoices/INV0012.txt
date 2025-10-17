@@ -1,0 +1,5 @@
+Invoice ID: INV0012
+Vendor: QuickFix Solutions
+Date: 2025-05-30
+Description: This invoice is for Utilities related charges. Total payable amount: INR 11824.
+Account No: ****6285

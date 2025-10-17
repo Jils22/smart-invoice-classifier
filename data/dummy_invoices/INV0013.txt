@@ -1,0 +1,5 @@
+Invoice ID: INV0013
+Vendor: Alpha Services
+Date: 2024-11-01
+Description: This invoice is for Maintenance related charges. Total payable amount: INR 13946.
+Account No: ****5980

@@ -1,0 +1,5 @@
+Invoice ID: INV0008
+Vendor: XYZ Corp
+Date: 2025-01-14
+Description: This invoice is for Internet related charges. Total payable amount: INR 2338.
+Account No: ****8030

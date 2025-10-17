@@ -1,0 +1,5 @@
+Invoice ID: INV0049
+Vendor: Delta Power
+Date: 2024-12-29
+Description: This invoice is for Utilities related charges. Total payable amount: INR 12210.
+Account No: ****4866

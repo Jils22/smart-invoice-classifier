@@ -1,0 +1,5 @@
+Invoice ID: INV0074
+Vendor: XYZ Corp
+Date: 2025-05-18
+Description: This invoice is for Supplies related charges. Total payable amount: INR 10241.
+Account No: ****5489
