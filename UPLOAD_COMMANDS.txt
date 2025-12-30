@@ -1,0 +1,54 @@
+# Quick Upload Commands
+
+## Copy-Paste Ready Commands
+
+```bash
+# Step 1: Navigate to project
+cd d:\Projects\smart-invoice-classifier
+
+# Step 2: Check status
+git status
+
+# Step 3: Stage all files
+git add .
+
+# Step 4: Commit with message
+git commit -m "Final cleanup: remove venv and consolidate docs for GitHub release"
+
+# Step 5: Push to GitHub (assuming origin is set)
+git push origin main
+```
+
+## If Creating New Repository on GitHub
+
+```bash
+# After creating empty repo on GitHub.com:
+
+# Set remote (replace USERNAME and REPO)
+git remote add origin https://github.com/USERNAME/smart-invoice-classifier.git
+
+# Ensure branch is main
+git branch -M main
+
+# Push to GitHub
+git push -u origin main
+```
+
+## Verify .gitignore is Working
+
+```bash
+# Check what will be committed
+git status
+
+# Should NOT show:
+# - venv/
+# - *.db files
+# - *.joblib files
+# - .env file
+# - invoices_uploads/
+
+# Check which files are ignored
+git check-ignore -v *
+```
+
+## Done! Your repo is on GitHub 🎉
